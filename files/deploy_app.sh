@@ -14,7 +14,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>Meow World!</h2></center>
-  Much Terra, such form. Wow!
+  Such Terra, much form. Wow!
   <!-- END -->
   
   </div>
